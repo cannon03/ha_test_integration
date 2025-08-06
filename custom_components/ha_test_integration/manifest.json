@@ -1,0 +1,9 @@
+{
+  "domain": "ha_test_integration",
+  "name": "HA Test Integration",
+  "documentation": "https://github.com/your-username/ha_test_integration",
+  "dependencies": [],
+  "codeowners": ["@cannon03"],
+  "requirements": [],
+  "version": "0.1.0"
+}

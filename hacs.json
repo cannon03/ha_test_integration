@@ -1,0 +1,7 @@
+{
+  "name": "HA Test Integration",
+  "render_readme": true,
+  "domains": ["ha_test_integration"],
+  "iot_class": "cloud_polling",
+  "homeassistant": "2023.1.0"
+}
